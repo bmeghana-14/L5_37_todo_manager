@@ -7,3 +7,17 @@ venv/
 .venv/
 env/
 
+# Virtual environments
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated task data
+tasks.json
+tasks.pkl
+
+# Static analysis reports
+*_report_before.txt
+*_report_after.txt
